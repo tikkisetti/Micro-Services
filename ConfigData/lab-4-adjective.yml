@@ -1,0 +1,3 @@
+spring:
+  profiles: adjective
+words: reasonable,leaky,suspicious,ordinary,unlikely
